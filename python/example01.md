@@ -1,0 +1,11 @@
+1. Ekrana Yazı Yazdırma (print) Ekrana "Python öğreniyorum" yazdıran bir kod yazın. Adınızı ve soyadınızı aynı print satırında yazdırın. Ekrana önce bir sayı, sonra bir yazı yazdıran iki ayrı print satırı yazın.
+2. Yorum Satırları Bir satır kod yazın ve yanına o satırın ne işe yaradığını açıklayan bir yorum ekleyin. Çok satırlı bir yorum kullanarak adınızı, yaşınızı ve şehrinizi not edin (kod çalıştırılmadan).
+3. Değişkenler sehir adında bir değişken oluşturup içine yaşadığınız şehri atayın ve yazdırın. puan adında bir değişkene 50 değerini verin, sonra değerini 75 olarak güncelleyip her iki değeri de yazdırın.
+4. Veri Tipleri Bir tam sayı, bir ondalıklı sayı, bir yazı ve bir boolean değişken oluşturup her birinin tipini type() ile yazdırın. 10 ve "10" değerlerinin tiplerini karşılaştırın — ikisi de aynı mı?
+5. Temel Matematik İşlemleri 15 ve 4 sayılarını kullanarak toplama, çıkarma, çarpma ve bölme işlemlerini yapın. 17'nin 5'e bölümünden kalanı (mod) bulun. 2'nin 8. kuvvetini (2 üzeri 😄 hesaplayın.
+6. Kullanıcıdan Veri Alma (input) Kullanıcıdan adını alıp "Merhaba, [ad]!" şeklinde yazdıran bir program yazın. Kullanıcıdan yaşını alıp 10 yıl sonraki yaşını hesaplayıp yazdıran bir program yazın.
+7. Karşılaştırma Operatörleri a = 8, b = 12 için a > b, a < b ve a == b sonuçlarını yazdırın. Kullanıcıdan bir sayı alıp bu sayının 100'e eşit olup olmadığını kontrol edin.
+8. Mantıksal Operatörler yas = 22 ve ogrenci\_mi = False değişkenleri için and, or ve not sonuçlarını yazdırın. Bir kişinin hem 18 yaşından büyük hem de kayıtlı olup olmadığını kontrol eden bir ifade yazın.
+9. Basit if-else Kullanımı Kullanıcıdan bir sayı alıp bu sayının pozitif mi negatif mi olduğunu yazdıran bir program yazın. Kullanıcıdan not alıp 50 ve üzeri ise "Geçti", altında ise "Kaldı" yazdıran bir program yazın.
+10. String (Yazı) ile Temel İşlemler Adınızı ve soyadınızı ayrı değişkenlerde tutup birleştirerek tam adınızı yazdırın. Bir kelimenin kaç harften oluştuğunu len() ile bulun. Bir yazıyı tamamen büyük harfe, sonra tamamen küçük harfe çevirin.
+11. Basit Bir Program Örneği Kullanıcıdan iki sayı alıp çarpımını yazdıran bir program yazın. Kullanıcıdan bir sayı alıp bu sayının karesini (kendisiyle çarpımını) hesaplayan bir program yazın.
