@@ -116,7 +116,7 @@ df_outer
 
 df= pd.DataFrame({
     "departman" : ["satış", "IT","satış", "IT","IK"],
-    "isim" : ["Ayşe","Fatma","Hayriye","Tripcan","Zıpırcan"],
+    "isim" : ["Ayşe","Fatma","Hayriye","can","ahmet"],
     "maas" : [15000,20000,232320,3543535,123124510]
 })
 
